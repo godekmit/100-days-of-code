@@ -8,3 +8,10 @@
 
 **Link to work**:
 
+### Day 1: January 18, 2022
+
+**Today's Progress**: Finished Lesson 12 on py4e, and I found a couple websites so I could actually do practice problems
+
+**Thoughts**: It's been a couple weeks from the first day, but I still want to keep progressing
+
+**Link to work**: codebat, w3resource.com, hackerrank
