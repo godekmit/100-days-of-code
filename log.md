@@ -15,3 +15,11 @@
 **Thoughts**: It's been a couple weeks from the first day, but I still want to keep progressing
 
 **Link to work**: codebat, w3resource.com, hackerrank
+
+### Day 1: January 19, 2022
+
+**Today's Progress**: Completed about 15 practice problems from w3resource, although they weren't super hard ones.
+
+**Thoughts**: I think that tomorrow I should find more challenging problems, so that I can learn lists, dicts, tuples, functions, etc.
+
+**Link to work**: codebat, w3resource.com, 
