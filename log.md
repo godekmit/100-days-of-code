@@ -16,10 +16,18 @@
 
 **Link to work**: codebat, w3resource.com, hackerrank
 
-### Day 1: January 19, 2022
+### Day 2: January 19, 2022
 
 **Today's Progress**: Completed about 15 practice problems from w3resource, although they weren't super hard ones.
 
 **Thoughts**: I think that tomorrow I should find more challenging problems, so that I can learn lists, dicts, tuples, functions, etc.
 
 **Link to work**: codebat, w3resource.com, 
+
+### Day 3: January 20, 2022
+
+**Today's Progress**: Spent some more time working through practice problems, with a focus on the collections: tuples, dicts, lists. Found out that w3resource has a shit ton of practice problems.
+
+**Thoughts**: I think that I made some steps in the right direction, and I think that I can reach 100 days.
+
+**Link to work**: w3resource.com, 
