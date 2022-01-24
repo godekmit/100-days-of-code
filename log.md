@@ -31,3 +31,12 @@
 **Thoughts**: I think that I made some steps in the right direction, and I think that I can reach 100 days.
 
 **Link to work**: w3resource.com, 
+
+
+### Day 4: January 24, 2022
+
+**Today's Progress**: w3resource list problems, today I had a busy schedule so I was only to work for about 40 minutes. I wish I spent time over the weekend coding.
+
+**Thoughts**: I think I need to try harder to keeping a strict schedule, because I skipped 4 days of programming.
+
+**Link to work**: w3resource.com
