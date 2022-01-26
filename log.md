@@ -40,3 +40,11 @@
 **Thoughts**: I think I need to try harder to keeping a strict schedule, because I skipped 4 days of programming.
 
 **Link to work**: w3resource.com
+
+### Day 5: January 25, 2022
+
+**Today's Progress**: I learned a new way to run through for loops, for index, value in item:..... I also learned how to place "flags" in for loops with if statements, in order to check if something happened/did not happen. 
+
+**Thoughts**: 2 days in a row!
+
+**Link to work**: w3resource.com
