@@ -48,3 +48,11 @@
 **Thoughts**: 2 days in a row!
 
 **Link to work**: w3resource.com
+
+### Day 6: January 26, 2022
+
+**Today's Progress**: Spent more time practicing my lists, and I implemented the for index, value in enumerate(sample)
+
+**Thoughts**: I only coded for about 30 minutes today, tomorrow I want to focus harder.
+
+**Link to work**: w3resource.com
